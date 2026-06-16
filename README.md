@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm TKAMARU
+
+I am also TKMARU-kaninabe.
+
+The same person makes them.
+
+TKmaru-kaninabe is https://github.com/TKmaru-kaninabe
+
+
+
+
 <!--
 **TKAMRU/TKAMRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
